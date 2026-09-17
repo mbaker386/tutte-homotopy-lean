@@ -64,6 +64,13 @@ are also preserved exactly. [SOURCE_SNAPSHOT.json](SOURCE_SNAPSHOT.json) records
 their hashes. New publication documentation and orchestration scripts are separate
 from the mathematical sources.
 
+An AI-assisted explanatory note on the fourth-kind configuration is
+available as [PDF](docs/fourth-kind-recognition.pdf) and
+[LaTeX](docs/fourth-kind-recognition.tex). It explains the selected-lattice,
+induced-cut, and path recognition used in the Lean proof. The note records
+its provenance and the relevant formal declarations; it does not assert
+independent human review of the explanatory prose.
+
 [Proof guide](docs/PROOF_GUIDE.md) ·
 [Mathematical conventions and manuscript correspondence](docs/MANUSCRIPT_CORRESPONDENCE.md) ·
 [Verification](docs/VERIFICATION.md) ·

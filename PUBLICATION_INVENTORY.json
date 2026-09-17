@@ -36,8 +36,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 4504,
-    "sha256": "eeca9644265d8af9ea0768e854d7f3fcc7c8a5660400bdc85ce2a754840d8398"
+    "bytes": 4905,
+    "sha256": "918f82854f9601af702c92acf53afdc56f35068016541003c3f79acc8b8bb366"
   },
   {
     "path": "SOURCE_SNAPSHOT.json",
@@ -1053,6 +1053,16 @@
     "path": "docs/VERIFICATION.md",
     "bytes": 3528,
     "sha256": "bddaac5efcf4b65d5a1cff7601449c67df3dce17a5ce7fd5f7e90fa42ff9ccde"
+  },
+  {
+    "path": "docs/fourth-kind-recognition.pdf",
+    "bytes": 291493,
+    "sha256": "139db7bcc8c928dadf4ea6fe9c3d4edd2db55058f443778e43e421562cbeca0d"
+  },
+  {
+    "path": "docs/fourth-kind-recognition.tex",
+    "bytes": 19328,
+    "sha256": "21b1f4b2cdbfe5280095a70ef412ab6174e9f323c23c1638df91748fb0d583bb"
   },
   {
     "path": "homotopy/audit/FinalKernelReplay.lean",
