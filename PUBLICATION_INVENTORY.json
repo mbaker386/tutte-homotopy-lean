@@ -1,0 +1,1122 @@
+[
+  {
+    "path": ".github/workflows/verify.yml",
+    "bytes": 685,
+    "sha256": "1257218807306c8c8bbeade283bb50785b4ecd278f46456412560be18534a9a4"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 361,
+    "sha256": "8e2cec06ee0750fbb35e2cd4ffc9be6c0a644983c070f139b666bbb1b9b0a16c"
+  },
+  {
+    "path": "AGENTS.md",
+    "bytes": 1279,
+    "sha256": "74ddfaab34cc6c93fe8920f56e83c4df6a7f6ee443cd929a4ac539e2dbc69d18"
+  },
+  {
+    "path": "Audit.lean",
+    "bytes": 2129,
+    "sha256": "f1e810e8cadb2a89f058f849b4cf8c32749d9cf2aab6be4444262786c913d6ce"
+  },
+  {
+    "path": "CITATION.cff",
+    "bytes": 844,
+    "sha256": "2983226e2f637eaad7d170b9a136433f6ad541698ae355e7ba723586eb6b2e43"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "PUBLISHING.md",
+    "bytes": 6624,
+    "sha256": "43e3231f61f78826046d3ea03f670455c7b3add28e791edca2e663ab16d561fb"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4504,
+    "sha256": "eeca9644265d8af9ea0768e854d7f3fcc7c8a5660400bdc85ce2a754840d8398"
+  },
+  {
+    "path": "SOURCE_SNAPSHOT.json",
+    "bytes": 37697,
+    "sha256": "34adfddba0f9e11300ecf63c5aeb3f7833076c8332a3986e50771d95007ac7ea"
+  },
+  {
+    "path": "TutteFormalization/Basic.lean",
+    "bytes": 21,
+    "sha256": "a88fef4d3efa63c9f9f5c948dd5ba1de3ea09d828ce8388ee83fa3d039e734a4"
+  },
+  {
+    "path": "TutteFormalization/Chain.lean",
+    "bytes": 1230,
+    "sha256": "e183ae90223b1d269a976c32fe55cc14a1da1898d35ef7c9617a0b7f0d327449"
+  },
+  {
+    "path": "TutteFormalization/ConnectedPartitions.lean",
+    "bytes": 3609,
+    "sha256": "7a5c78d003e5d7f372d40721af4f1a3ef84a49df40e44893d31a00929f7fe443"
+  },
+  {
+    "path": "TutteFormalization/ContractionFlats.lean",
+    "bytes": 2970,
+    "sha256": "c9eb531bd095d2f2c0b86d69279e17cd18e00aa66c622a5a20ad0cf5f7ad9763"
+  },
+  {
+    "path": "TutteFormalization/ContractionRank.lean",
+    "bytes": 4414,
+    "sha256": "9a24d7fc3779b8bc036c1f6dabe7058d8783d1316c64708834bc790e53cf0b1a"
+  },
+  {
+    "path": "TutteFormalization/Definitions.lean",
+    "bytes": 3601,
+    "sha256": "77617e1561c5f2da82fb7f00210a31a421e4a78651ad45b5f2a4384d9f7f5ffe"
+  },
+  {
+    "path": "TutteFormalization/Diamond.lean",
+    "bytes": 6265,
+    "sha256": "c1dd090860eb6a947fd752e76f9c897849d8d2636211b45ecd729cb7eac43457"
+  },
+  {
+    "path": "TutteFormalization/DiamondRanks.lean",
+    "bytes": 4780,
+    "sha256": "f7585fccd3be0b85815621aeaa2cf6afe97d7eac2468de4cb660d436881c1872"
+  },
+  {
+    "path": "TutteFormalization/FlatRank.lean",
+    "bytes": 5547,
+    "sha256": "4af4d73e7f0391527113de615fcfd60c91bfb829130e3a4233963fe9fd751baa"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/B2Separation.lean",
+    "bytes": 3112,
+    "sha256": "316b51b83ac4224b5bb93d66bf94994d42df7576bf119d7d10178f68fd1c25de"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/Backtrack.lean",
+    "bytes": 5769,
+    "sha256": "46fd41d0305ec20015e5f10176d4de1474ca860099c6846a8b7c934ab8d4ddb6"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/BridgeCancellation.lean",
+    "bytes": 3779,
+    "sha256": "8566b17b376774fa3ebbe0f25aca799d1552a36069b45aa3781d1242f3dc3c4b"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/BridgeDeformation.lean",
+    "bytes": 1592,
+    "sha256": "f3f670cf98dd40ba4e0b252e213fcc4172bd8f8ba54039b87352973b3e61aacc"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/Cancellation.lean",
+    "bytes": 5414,
+    "sha256": "edbc9150225394f45553585f0ccedf41246f0f7d0616fbf704f0ca4c86fb0df6"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/Carrier.lean",
+    "bytes": 4427,
+    "sha256": "f1b4f03580049778a743763f23071675a21ad3c1510be4bde47c8e9f7edbbafe"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CarrierInduction.lean",
+    "bytes": 2698,
+    "sha256": "242de0cea29d2a26ff1de30a9e0085d2d60cef03029e7cfc1ff67aaf9d229d0a"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CommonSquareBridge.lean",
+    "bytes": 2510,
+    "sha256": "36599e84eb97000d4694e68511e7ccec918493d56bf1ef2a90762183a9832eb8"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/Context.lean",
+    "bytes": 3213,
+    "sha256": "840b6743e8913551b77b62cd8c222470a0664d160db94951116cdde9a2d06422"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ContextFirstTriple.lean",
+    "bytes": 3246,
+    "sha256": "ce964320ce32c6fb1e5674e0c2921fdaa05ded6ac3bea30ed9b53cc5202ad28a"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ContractGeometry.lean",
+    "bytes": 5221,
+    "sha256": "230bac4573eb925f965f75d083d3830e5dda90888a9fe918b4f966a8b264764f"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ContractHomotopy.lean",
+    "bytes": 2634,
+    "sha256": "e121f649eab02001f22bb47b3e0dd4fa2eba489751c39b0a77a696e18fdf6a03"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ContractModels.lean",
+    "bytes": 4885,
+    "sha256": "04c9292ed1a84c90e30980668cd1d9931c27043d0e32dd9744b0115afa541a46"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ContractPairGeometry.lean",
+    "bytes": 2313,
+    "sha256": "90e6f9d3ab9aa4fcd48796d25cf4d3b6f62199a3020c7fcff144e6e547fa5195"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ContractPaths.lean",
+    "bytes": 3927,
+    "sha256": "28ead54aab25ae52a495b179fb4b1dd58412805217ea47dc1d4c37bbd70103a6"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CorankFourSelection.lean",
+    "bytes": 3176,
+    "sha256": "8b001f8df58c3c31f3e0717289b4d370e5ea53a273a97954d7632128f11a15b2"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CorankOne.lean",
+    "bytes": 1394,
+    "sha256": "3329264d08ad03a329e8c462474b8a6a1b1138b72bb0f2381872c74b0ed89cab"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CorankThree.lean",
+    "bytes": 5920,
+    "sha256": "190e42cc945602b92612c42e6031de115f7f11c19d168e8f0395b6cd58bf7aee"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CorankThreeGeometry.lean",
+    "bytes": 5715,
+    "sha256": "00de72dd6eaf9e9467df042ffc2f000662122d97fdc474d6acd64f42495d71e6"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CorankThreeReduction.lean",
+    "bytes": 1859,
+    "sha256": "66d8d325d8c0bf3db74c9e90e7aba7275303d91fd10536ed18631a06e511167b"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CorankThreeSegment.lean",
+    "bytes": 3522,
+    "sha256": "3bd7f892c2451bc6a70f61bd34cdb476d73db2dcf659a118c6474673b4f7df2c"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CorankThreeStep.lean",
+    "bytes": 3833,
+    "sha256": "9a2c7c3e68cf2c55c37c7e8882a0c55fdccf95601ad2474dadc7c75d4c9c182f"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CorankTwoReduction.lean",
+    "bytes": 1859,
+    "sha256": "9af143ea4392e404a963b71c2a488872c7b450f6d358a1f21fd66d0bd1c943d5"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CorankTwoShortcut.lean",
+    "bytes": 2292,
+    "sha256": "13879405fa0cca72a3b43647ceeed147e262ff7cace010c2d4986162b3aad080"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CountingFrame.lean",
+    "bytes": 4066,
+    "sha256": "a002d85790e5e71c467ba14e8895bd01c504395758449587dc21d34eabbbf62b"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CountingPencils.lean",
+    "bytes": 3094,
+    "sha256": "58fecd9211eecf7faae3da9ddbc540b952a257d83ddc3963119e72741bf35d81"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CountingPigeonhole.lean",
+    "bytes": 1221,
+    "sha256": "3c030c018e59bccdb05481586826a74c4ac2175527e4d34c0af7cd017dc2c0b5"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CountingSymmetry.lean",
+    "bytes": 2892,
+    "sha256": "3062cf40c0c203b7bf234657b33093b41366c88a5bd143d58f8899079215ada8"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CoverJoin.lean",
+    "bytes": 1431,
+    "sha256": "86141f06f6ea726b490dd1dd3f216ade405779c67765470734712594567ba0ae"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CubeDegreeCount.lean",
+    "bytes": 853,
+    "sha256": "0a16acb1da0ced98a6242c410a62767e7551427f94561f4f3fa4bb88520e83b3"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CubeParity.lean",
+    "bytes": 1750,
+    "sha256": "e984803fa4ead27199774e87ac6c97f4a7576db8e96d1fa7eab2da8ff61c8b30"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/Cut.lean",
+    "bytes": 2108,
+    "sha256": "5b5612146436cf6641835329e868db58de3be6ce93180abc40459e60c91d5cf6"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CutBranchEdges.lean",
+    "bytes": 1694,
+    "sha256": "648c4abd093168c90054e152889d0da9723abc95d8c23a23e1e847b6a03eefb2"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CutHyperplaneCriterion.lean",
+    "bytes": 3677,
+    "sha256": "c06730f0b662cb0dd8845ea9cd8303bc6110362ede5dd6ac6916e772cfeb238b"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CutJoinGeometry.lean",
+    "bytes": 4393,
+    "sha256": "1a37c339ad90b87f967bc0abe216db4496d3fa126c5511d73c8d15614021bb7c"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/CutParityRecognition.lean",
+    "bytes": 2646,
+    "sha256": "6d099f072c9aac5e004b2cdc5c094ec78ee7a5727e857cd2b4f070a071cd0dc5"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/DecomposableBridge.lean",
+    "bytes": 2348,
+    "sha256": "f334003fb4ed1d0500f3a63d47a5f904f190eda56e3add80c955a5549582d342"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/Deformation.lean",
+    "bytes": 4339,
+    "sha256": "183bcdad7586ca654af75bd7603568f911a55bab6380ae0848a1f4e97ff98015"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/Elementary.lean",
+    "bytes": 3736,
+    "sha256": "afabb119fba308ca1a7b6c11a67a10044b0ea0c94fb18fe7dbfeb0e4873eff3a"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/Embedding.lean",
+    "bytes": 5432,
+    "sha256": "549630d2e3cf0302d686384156161783c6d911fd58c7b7b451464bdf66d529c7"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ExtraCover.lean",
+    "bytes": 4571,
+    "sha256": "81493ee70044703128ba70a3b22de422cece3d6b7a1e4f42c70eec22c62ccaf6"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ExtraFlat.lean",
+    "bytes": 3871,
+    "sha256": "d587b1f110d4dd75ebc1d9ec5b5a92f81f819cd616c6dcbed7370822fdfa0928"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ExtraJoinOff.lean",
+    "bytes": 1385,
+    "sha256": "e27b2606dc4460e130889f6f3dd2bed60e66fb79f7d9e137302310c46f74e90d"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ExtraPoles.lean",
+    "bytes": 3021,
+    "sha256": "f7aa71a7be6f1a136adfde74761d003214870da22a924acaa9b3bcfad01fdc28"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ExtraSquare.lean",
+    "bytes": 4330,
+    "sha256": "e89d71a56b1c9961cbac90bc455f89ae2b74de65e1267ba61572be5e4e1d20b5"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FinalCoverSelection.lean",
+    "bytes": 1009,
+    "sha256": "d5c67c9860f550b1cfa8030de884c466514231b819be43fb3707f7154f56bd94"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FiniteModels.lean",
+    "bytes": 5073,
+    "sha256": "2ba77a62ec79dae2639096bff4ff396ad237eb64d7dd247c954daecdac4990e1"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FirstIntersection.lean",
+    "bytes": 1962,
+    "sha256": "a823a101ac7acdbd89b9fd55eeac01619319b5b3e3545b462b8f88ba511b476c"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FirstJoinGeometry.lean",
+    "bytes": 1993,
+    "sha256": "0b654c998c55f2d45dfa71d61b42f4cd43d229250067c76198cce300855c3642"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FirstOffenderReduction.lean",
+    "bytes": 2411,
+    "sha256": "0a0b23e76ca025f57146bea6e563a4563763faebde4d10e9e6a718d8149ef0ac"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FirstOutsideIndex.lean",
+    "bytes": 1399,
+    "sha256": "6f772f7b66c0ed672adb7f85bba1d592f85ac35311d602091034fa179b597a32"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FiveTriangleExchange.lean",
+    "bytes": 3350,
+    "sha256": "4624cce40f04dde9588df2366841879d22d96d86d01683ffedc6a76f4e9426d9"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FourPointEmbedding.lean",
+    "bytes": 2393,
+    "sha256": "01d553b855c170118ccfe2fee75d643a885aac8879acf1d00c0e4e67d0af085f"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FourTransversals.lean",
+    "bytes": 4051,
+    "sha256": "ea43e32299bd93ffa176c686ad77638b9e06bb49e6302f0e7f51d5ccb345cee3"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FourTriangleReduction.lean",
+    "bytes": 3243,
+    "sha256": "986453ac379dc8d619e7cedce18a8febe82d49625b4f2ba940bd7559307bd83c"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FourthCutRecognition.lean",
+    "bytes": 1770,
+    "sha256": "0732bea9f218e3105b6fc87208f341ac5933e8ff5cc682b953b2ee7f49aa4aa6"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FourthPathRecognition.lean",
+    "bytes": 2605,
+    "sha256": "daf742e8e2be709ff4be2a5714c95416ff737e6a22768fa2d336ead9593bd8ab"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FourthRankRecognition.lean",
+    "bytes": 4133,
+    "sha256": "31c1ea98835425979f5dfc10e553044185a3c5e2dc1fba037eae0974fc5b38c1"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FourthRecognition.lean",
+    "bytes": 1698,
+    "sha256": "4dce3b9f77482020ac748d057230cc7b451ebd08aacfdc48080ddc2d04111017"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FourthSpecial.lean",
+    "bytes": 1591,
+    "sha256": "fec6d9c5813885ac3402365cb9f3eabc40d334a41b4ca8d245810a4fd0538bb0"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FourthWordRelabelling.lean",
+    "bytes": 2148,
+    "sha256": "8039e4bfeaaeb93c17fec425275eacf37121b27b881cd7e8b2b3dbf5f66a5ed5"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/FullCubeCut.lean",
+    "bytes": 1837,
+    "sha256": "fa42bcecd0751faf6c5830a7765026e877f24df20b64f1a6ff6af4034ed1673a"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/GraphicModel.lean",
+    "bytes": 3724,
+    "sha256": "e2a96a28ffd0d26d967a035b0d8d29c0a6963ce6e789c49b38f2bfc89fd5a744"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/HyperplaneRecognition.lean",
+    "bytes": 2878,
+    "sha256": "4b80b3ad8bd10058dee123804b36166d7c25edd91190759c3b460fbda4869eba"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/InsertionDescent.lean",
+    "bytes": 3337,
+    "sha256": "6a4ed99c58935df409a198c2d2a6817077d70958197f17a519d17a3396390a7e"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/LargeComplement.lean",
+    "bytes": 2516,
+    "sha256": "d125642c70ef56819b9e8ccc0ea0a2540be91bf941920cb6a5f963885b2c873c"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/LargeCorankSelection.lean",
+    "bytes": 1968,
+    "sha256": "be60a770bed436b61b2c7e49a693c928951ed06c762eb68a94e158a703a8c3f4"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/LargeCorankStep.lean",
+    "bytes": 3937,
+    "sha256": "ea798585ab567d456968a4f29313e9ed586e9957c2dee223ce104b9cb6be0e3f"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/LargeInsertion.lean",
+    "bytes": 5246,
+    "sha256": "1abcda76a3fe573a3d6c64b10b0b0c9fefff50782e0e87b3f3b1da4e50066a25"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/LargeJoinGeometry.lean",
+    "bytes": 3666,
+    "sha256": "5bc4c0bc45a5feecb484abca597adeae8a66086116717e5f002bf9e6fb0cf469"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/LargeReduction.lean",
+    "bytes": 3377,
+    "sha256": "5a67e3b5bf1d132045c57dba25654916ec95149deca0ecc5c384d0c8fa193e4f"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/LargeSpecial.lean",
+    "bytes": 3135,
+    "sha256": "066eceb469df96178cc4944406fd4e79bd31a0e0a96d0a8ff6593382dec9b341"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/LargeSpecialBridge.lean",
+    "bytes": 3884,
+    "sha256": "49c44977082848cdbfdf07c6109c3f56b696a17f2cd6e34b7ace2fd20e2a53c2"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/LocalReplacement.lean",
+    "bytes": 2156,
+    "sha256": "44570b0d5ddb38d266400db45941656eaf5e3c94514f82b6c3b372cd21c32bb0"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/LocalTriple.lean",
+    "bytes": 3193,
+    "sha256": "9ffdb8a73de77ae232cf96c2d77bf6c2d30d50e7b053149cc063d4e54ecce0f2"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/LowerCalculus.lean",
+    "bytes": 4425,
+    "sha256": "483b44c34f61960f3458b05e194b93baec5a2026acb1082e67d77723f8ce35c4"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/MaximalEligibleJoin.lean",
+    "bytes": 4009,
+    "sha256": "59cc64c2d24ffb78c8176bacc4a34ff6feee9beab1f7084f65e3a9666dc94f46"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/MinimalLoop.lean",
+    "bytes": 1759,
+    "sha256": "6a4c0c2a2a60d0d2023bb08cefe6a49e45a424ce9b4e779e07a25f57aadd737e"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ModelGeometry.lean",
+    "bytes": 4805,
+    "sha256": "859d47a52dba87ad66abd02223eaa8309cb8418fbafcda941f3feea7021abb06"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ModelRankFacts.lean",
+    "bytes": 601,
+    "sha256": "851ddaca55348a989523e8c47a899910aab0897779f16303024b05d5e95761e3"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ModelRelabelling.lean",
+    "bytes": 2908,
+    "sha256": "08c5f3db77f7482836faf80221905eb817cb41419aabdbca0ba80e3b8566198c"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/NextCoverChoice.lean",
+    "bytes": 2585,
+    "sha256": "35eefbaa7b9bab013a080fde1a1646717be53670cf5d18bd316f99c729ac2820"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/NextJoinGeometry.lean",
+    "bytes": 2370,
+    "sha256": "fa9e9f736b916e843e3db406229bfad47aa03ec6f6c8adca6facc2e30fa53329"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/OccurrenceCounts.lean",
+    "bytes": 1599,
+    "sha256": "45b9947f1e9c244bf1d9249c320f3e193071e525940dd6a87e01e86263c44f63"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/OccurrenceMeasures.lean",
+    "bytes": 3681,
+    "sha256": "471b2b3603accecdaec82b4263775e5b4e1154443dce072487268a16a89e5d03"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/OffHyperplaneChoice.lean",
+    "bytes": 1589,
+    "sha256": "509c37905d26b0d3df91304e4bff2f8d1ea0be779fab6dce55a04ae1ad50c1a6"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/OffJoinDecomposable.lean",
+    "bytes": 4364,
+    "sha256": "e9efa26a7496396b68ed8b0ff6a4b74900249cae6694f886df1f753ce95f7be3"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/OffJoinIndecomposable.lean",
+    "bytes": 3376,
+    "sha256": "cbaca608676f8d7c3f4de2d331880df91e0ea601ca2cb88fe3fca9643185177e"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/OffJoinReduction.lean",
+    "bytes": 1972,
+    "sha256": "fff5b2b0249cf55e6974858bab98cf664829ef6a8cd67ac12acd0df407777203"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/OffJoinShortcut.lean",
+    "bytes": 2202,
+    "sha256": "94e0b9cdc50ef2ad5ecda275f918da09eb1150b973a76625c6c4dd3ac797a2ba"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/OffJoinSpecial.lean",
+    "bytes": 2529,
+    "sha256": "368ee3fdd0e5887a00b55c399149b0d6a621cf58ee635d0f80e2c7d3c9f867fb"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/OppositePoles.lean",
+    "bytes": 2955,
+    "sha256": "343d9119f5dbedaa2423cedd139bf17b09732c73dca2d0864fcf4667842db966"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/PairFlatGeometry.lean",
+    "bytes": 2832,
+    "sha256": "e0962fdf2ebb30a1dd7ab54eac10aa994809651a0f5cd405623a8fc01fb5947f"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/PairPlaneRecognition.lean",
+    "bytes": 4857,
+    "sha256": "1c0c286103941607e2a9252ebc6cbb49d24c54388d9875ec18e8af9c9c01bae9"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/PathCalculus.lean",
+    "bytes": 6525,
+    "sha256": "eb86de5108921d95787303394abdf6ca50db5353027ede94a64a6193b0fde5c2"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/PathSegments.lean",
+    "bytes": 2373,
+    "sha256": "187b1e4e6b6e5288aaecdade833fd414bf11232701007515bf47ee047f6f9750"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/PathWords.lean",
+    "bytes": 972,
+    "sha256": "c12f6513f383887195c3f20694f850bbc5693fc1838e4cada43f3ed35be92d63"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/PencilCorrespondence.lean",
+    "bytes": 2980,
+    "sha256": "2ddf7076c8440b2c177f57569e7b28401cd24b0c94d81ec7169f42a927165de7"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/PencilCounting.lean",
+    "bytes": 3826,
+    "sha256": "8ff840272af0f99482da196abe6f5da472ee6880ea662601059e2cb3891d78b2"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/PencilCounts.lean",
+    "bytes": 3205,
+    "sha256": "c758cdc11598f471eb1c13c19ac78759da1e3b676adc434da7b2e8f949787ad5"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/PencilExhaustion.lean",
+    "bytes": 4781,
+    "sha256": "b0b80dfa633088f509111566119ba398eabf0cf7f532cec1df54e71f14bff4c0"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/PointGeneration.lean",
+    "bytes": 2592,
+    "sha256": "8109a3492a40625ac3b3ff1e46ee5dd8acf7565d0a2cd3dba6edce26abcd2ab6"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/PointRepresentatives.lean",
+    "bytes": 2403,
+    "sha256": "a2f71b05eb908e34e6e11f3e7f753f75de6ec50b6a7989db4bfeb0f444738a56"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/PreferredHyperplane.lean",
+    "bytes": 1283,
+    "sha256": "9640dec82a89f693d58deff62dc13b1005bfc1b71b9f852cbf4364cc6d1dd903"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/RankTableEmbedding.lean",
+    "bytes": 3033,
+    "sha256": "69a6c1fcb1600453d1635cd59dae7e4761863fab7d8ff7cd73114e04a837e487"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/RankThreePointModel.lean",
+    "bytes": 3016,
+    "sha256": "13f62721e2e6a0957b5373299a0ac2c1d9f50688d46d4c6d99c8f825b1e509cd"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/RankTwo.lean",
+    "bytes": 8535,
+    "sha256": "062cf2f716a7cc4cc2906c9bd6da6e302f2c4b4146ad00c5a0458a064c557a6b"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/RankTwoPencilModel.lean",
+    "bytes": 2574,
+    "sha256": "10b32e548bf2faed2b531cea91427a2ce25b5afa5a748812d6665a6b3ffe99dd"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/RecognizedSixModel.lean",
+    "bytes": 3763,
+    "sha256": "ae4a545199b49081c46d1b954563914814e0abe8e2781e218a01e318365d8c2a"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/RepresentativeTriples.lean",
+    "bytes": 1374,
+    "sha256": "80d11297a31dd60d8859fe362f2e0a892d43f4185c54805b3cb39be31a12d947"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ResidualFirst.lean",
+    "bytes": 4368,
+    "sha256": "0935cdf2b677214bfda5b9e10da426172bfb089c1ae458532dc5b2f8b515cd90"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ResidualLast.lean",
+    "bytes": 1530,
+    "sha256": "e7fc548361527986687951c0765214ffa780e417ea26879853bee06c57b32527"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ResidualMiddle.lean",
+    "bytes": 3884,
+    "sha256": "a4f3e4cb1a9c167bedd45c2a9bd64199edd95af074d897e06576efbc674faec9"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ResidualOutside.lean",
+    "bytes": 5896,
+    "sha256": "7af451b6117085345d8aa7d3f85575df70ada7054ad97e151670e2190504cf58"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ResidualOutsideGeometry.lean",
+    "bytes": 3212,
+    "sha256": "19bcac1722f6bdfde59d5174c1b04c7fdc32c4485ae7b2a66b039b55feee3d16"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ResidualTransport.lean",
+    "bytes": 2349,
+    "sha256": "63a1dbfe2ea76857ff01260a4708f9282c33da65064b2bf87e2bda7bcde469e7"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/Reversal.lean",
+    "bytes": 1936,
+    "sha256": "dfad3d9bb99627e8b18e3a15ea2ae1c1b3d6dec7e7ce335172955b926dec552f"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/Rotation.lean",
+    "bytes": 2256,
+    "sha256": "785d571f460c55b03f8078699e72f76701e798df32403b3b333d3332b3be7358"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SecondIntersection.lean",
+    "bytes": 3530,
+    "sha256": "f6bfd5ba4ddbeb4592b2c783782daeafeb40fe4826f721f9acd4f5d72ff6cb7f"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SegmentContexts.lean",
+    "bytes": 1627,
+    "sha256": "b89ee50122303f5f002771de09198e5c5a7367d1f024fe624f4a254b2efa7053"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SelectedCover.lean",
+    "bytes": 3571,
+    "sha256": "d103ef17a1981d7c805192e2a18d4e1519c2fc943e9a00956109606169e497b1"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SelectedThird.lean",
+    "bytes": 2396,
+    "sha256": "1d610fe0a3b9f55a286e024c1e97b2da65e11e7fb89ef7f7bae39147902940ac"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SeparationSides.lean",
+    "bytes": 5866,
+    "sha256": "4720dc76ceb949aef72b89fcba8d8c42ca33ae501b6649c27fc14d53023e2150"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SixFlatData.lean",
+    "bytes": 5139,
+    "sha256": "e01ae1fbe0609200d6d8abc7ae52ee36fdfcaa87b4b995670f7a5be77c0d0d03"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SixFlatExhaustion.lean",
+    "bytes": 2478,
+    "sha256": "9ebb140cf7be5edfed04f1befe9b550dbd72f113ee56bc337fbdee42444ee4ab"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SixModelCubes.lean",
+    "bytes": 4961,
+    "sha256": "f982f2450b778703552f3e63ffc29eadd302561fa4b69881a6595c971d8b1651"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SixModelHyperplanes.lean",
+    "bytes": 3291,
+    "sha256": "7ef713a6c30dc5e41c592312fa9469fd34cd7c23882fed3bc7683cafccaf145e"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SixModelPath.lean",
+    "bytes": 3391,
+    "sha256": "aa2f0de321f6e6871101056f38917a9e8575163e619d72ed3fee0736511d42dd"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SixModelPlanes.lean",
+    "bytes": 2264,
+    "sha256": "e0854b73de444629de0c7029d62de855e84914d6a3b49fa5944a2f9d0365fe23"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/Special.lean",
+    "bytes": 860,
+    "sha256": "0115b4d8773992f9193d1e1b07be51f3663b2db90bd324b52154ede2075905c6"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SpecialBound.lean",
+    "bytes": 1922,
+    "sha256": "d88d633a6af9e8711b8a7490316230bf3a1e742dd2efb0beb02d5ee32d05823f"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SpecialCorankFour.lean",
+    "bytes": 3965,
+    "sha256": "3bb552b44cffa61cfc144fd341457b2db41c3186a5680271f1579b42cb33404c"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SpecialCounts.lean",
+    "bytes": 3984,
+    "sha256": "282b6567e64caec92051e90d2ee6eae2048f96c8ed58a81b4af4617b3abd0009"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SpecialData.lean",
+    "bytes": 4320,
+    "sha256": "ede103a12ca563657e31a102e2dd05f7cb5f478bbd21eb2d080ad52c79cff7f6"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SpecialEdges.lean",
+    "bytes": 1557,
+    "sha256": "f91cbe0dbca0fc1bc262b666754e746f76e47af4114d3069cd393700abfbd519"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SpecialFlatAvoidance.lean",
+    "bytes": 1205,
+    "sha256": "95b6f99be07843febf1510fdeb054f1d428cd764f3a7d9b4a265626c92e75c28"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SpecialPoles.lean",
+    "bytes": 3493,
+    "sha256": "08c9d5488192c52dc54e8b6d7b363501b12606970c2b0bf968686d1dc6308d73"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SpecialReplacement.lean",
+    "bytes": 3190,
+    "sha256": "19f8055dfe7740b4be345011afdc8a625577a36823f55eccab1cf31d8a1f7b65"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SpecialSymmetry.lean",
+    "bytes": 2291,
+    "sha256": "65fa4789b0b3acd893178c4c1ab0b0f5b6c8554981e30b1155c96212b2154ceb"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SquareBridge.lean",
+    "bytes": 3721,
+    "sha256": "c81893cef292ee0068da295a87eba2f7e7f56f33e686f3bea7b7249c1d40b824"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SquareInsertion.lean",
+    "bytes": 2178,
+    "sha256": "7ad12612411529b23e79544ed545cc3b21d12445c0bf7dcce0e61b8d1d2b8fb0"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SquarePaths.lean",
+    "bytes": 1674,
+    "sha256": "8ef992b1096bd6b0d13ea4974bdc832ba10380a0c1a70e11e611d5c0228cc563"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SquareReplacement.lean",
+    "bytes": 3652,
+    "sha256": "a6d2e240025655210a9f11d5dc2282c832c93beaef98f44e47cf38be79a4c397"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SquareRotation.lean",
+    "bytes": 1817,
+    "sha256": "bae811d084347c8c96c111bc66bc5f742b2a9ac79d0d901aa0a22144f0077797"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SquareShortcut.lean",
+    "bytes": 1302,
+    "sha256": "d8ed6ee65cc0add74566f37d5a3b130c5bfb85cbf379c566b3b5ad0650a7ee7b"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/SquareSymmetry.lean",
+    "bytes": 1256,
+    "sha256": "b163bd103aa1ecb3d0dcf75f7b5f559bd895eb091dd087c26c50f5dbb6ed7844"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/Statement.lean",
+    "bytes": 522,
+    "sha256": "32d5925a6e06557178249e9355614d032a8d79d0bb8b6f974f82f6094b3f71a6"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/Theorem.lean",
+    "bytes": 584,
+    "sha256": "4a8b611faa3b9deb5a985e4bc96cfb77bcb76f8d96ca0e1afc2d19a3b48f791f"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ThirdCutRecognition.lean",
+    "bytes": 1675,
+    "sha256": "9bd2a690c7092b06c020032544a0a79182aa111e10420cdd82aa775ca41d3622"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ThirdFlatConstruction.lean",
+    "bytes": 3917,
+    "sha256": "aa4dcbad46ae6e4df75b2125c27c207cdb878f727345057a0530a45135238e0f"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ThirdFlatGeometry.lean",
+    "bytes": 4429,
+    "sha256": "270fe61bdeff8251d67e6367f1127a7ea2f440f30a5d22341eaaea5c6dd404dc"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ThirdJoinRecognition.lean",
+    "bytes": 4455,
+    "sha256": "8f70a6870cf69e0e55bcbd058a56a73d968951d9f9a6f8d655257a719859c8a7"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ThirdRecognition.lean",
+    "bytes": 2676,
+    "sha256": "d492ef9969b745efcd1a983057eba7ff6548011c336994b362967712945bdc86"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ThreeBridgeObstruction.lean",
+    "bytes": 3453,
+    "sha256": "60bf403d89a28afe82978e57faa133d1776398cf5ca5404997d29e9c92539556"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/ThreePlaneCoverage.lean",
+    "bytes": 3887,
+    "sha256": "f7c89536ed6b60cd17ef714c98b20f366898116ad5a6bc4cd2152b9939a645cb"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/TopCutRecognition.lean",
+    "bytes": 1076,
+    "sha256": "64b6695a2b4073d62de1ab3c004b0d5a6cb3be7c3cc7c470e1df0d9900dc4371"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/TransversalBelow.lean",
+    "bytes": 2768,
+    "sha256": "dbb1c6041009c8c0879f297cce8a16e9d798a91ac64047f33326d4db1bb69ece"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/TransversalChoice.lean",
+    "bytes": 2431,
+    "sha256": "bb23daacb3735c36506467b83425c595a269c4a4613c59cee84536a8a403ff10"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/TransversalContainment.lean",
+    "bytes": 1502,
+    "sha256": "3bcfdcdee9a94541e7a642fd8c55cf741caf56cfaa5fa59b251061205d9e0f38"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/TransversalIntersections.lean",
+    "bytes": 3718,
+    "sha256": "d23c41b103e0deffea765deca11174ff296e50bd675f2c90607ab6e4e5e2f468"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/TransversalJoin.lean",
+    "bytes": 3315,
+    "sha256": "08a6637d0a737438742210e3c305dd6aa8589ba350f3e79b3e0b7ac9ee4bbd90"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/TransversalRanks.lean",
+    "bytes": 3528,
+    "sha256": "6123e80d6709ecd6c31d32a6807555e62074c66f9be612e806dca82db916d78e"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/TriangleExchange.lean",
+    "bytes": 2579,
+    "sha256": "a2e9b1e927c9c9036c762fd0b0c218fba4e10c52d129c1401e334bfb99633fc7"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/TrianglePaths.lean",
+    "bytes": 4364,
+    "sha256": "697f4b78b56f56aa85102f91d8b86658a93746959703700c044ea55360c14756"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/TriangleRankThree.lean",
+    "bytes": 5607,
+    "sha256": "0e5d846266a07e1b2ede10a7b2c1df1ddd953b6456fd9b378fc976a4fc5bea75"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/TripleJoinSpanning.lean",
+    "bytes": 2121,
+    "sha256": "d7d0f7b74569568276ca3507515ebe0ee3bc5f14aee6e259c1cbc0513a378e57"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/TwoHalves.lean",
+    "bytes": 1189,
+    "sha256": "9909069cf302f7dda650fffe158b963c9dbaf20b84c8db563d31879c0a5d0ccf"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/TwoLineCuts.lean",
+    "bytes": 2219,
+    "sha256": "e2de7e5edfe612a9db686d1f729ff273bb0eac673c328a9f2b39241cdaa3bd9d"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/TwoLines.lean",
+    "bytes": 4288,
+    "sha256": "cb42efc11df06bb773327269789e1fad095fd03d82f5b66ad23db288f9207fad"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/TwoStepEdges.lean",
+    "bytes": 681,
+    "sha256": "583ecec0d22ed69ce78016b0c0fd0643aec069180813fcf6e4ac7960d64b9246"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/UniformFourPoints.lean",
+    "bytes": 2318,
+    "sha256": "cdbd2d646ffbb8ace1eb3893ed3b2b595a5820dd26ce8f57a9e6cfa87987be1b"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/UniformRankThree.lean",
+    "bytes": 1579,
+    "sha256": "50ba593b9b4495beef4b8144882784f82f134b32c0f7efdd69a7e1c49ccc8e6a"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/UniformRankTwo.lean",
+    "bytes": 2105,
+    "sha256": "2c29c86059241db2a658eb6584d23e9ad047e052dbc26f0033d62fa1db5cef64"
+  },
+  {
+    "path": "TutteFormalization/Homotopy/UnionTransfer.lean",
+    "bytes": 891,
+    "sha256": "8bbce9b40907c61d1c16d1c8b696320990f72e196c57e2248e3f925efa3d4b45"
+  },
+  {
+    "path": "TutteFormalization/HyperplaneTools.lean",
+    "bytes": 4212,
+    "sha256": "be7c5ab161c367799d3ea9468a8ad7348f8d611ce6d0ff19600294b369d0d08d"
+  },
+  {
+    "path": "TutteFormalization/IndecomposableComplement.lean",
+    "bytes": 4589,
+    "sha256": "ddfdc6505546888793b34ca4be89bd6cebb7858821bf282b336d12146d39e05b"
+  },
+  {
+    "path": "TutteFormalization/IndecomposableStep.lean",
+    "bytes": 5078,
+    "sha256": "648872e19a2b751b9715e2d6f5902c710f40350098e26c920370e4070436bcd0"
+  },
+  {
+    "path": "TutteFormalization/PathInduction.lean",
+    "bytes": 6483,
+    "sha256": "6a09b0e03c495c0a53504c39b9df6267a4e405f8f485695d252deb6a54b5d989"
+  },
+  {
+    "path": "TutteFormalization/PathOperations.lean",
+    "bytes": 4955,
+    "sha256": "aec2a10f58da997339fd1f5a3042f6796d719c401cf2fa0b80ede92eea631057"
+  },
+  {
+    "path": "TutteFormalization/PathRanks.lean",
+    "bytes": 4074,
+    "sha256": "6958bf5d6774e6ca7b109eac5860bdfc6f5f41126ea798905774b7db33e168eb"
+  },
+  {
+    "path": "TutteFormalization/PathStatement.lean",
+    "bytes": 1013,
+    "sha256": "2a73004ce0e6f930842252cf1710889b4bd5072d415b3dc001d250daf85c28eb"
+  },
+  {
+    "path": "TutteFormalization/PathTheorem.lean",
+    "bytes": 1087,
+    "sha256": "5c55908a165a84e35a5014bdd69b1ae5befc1843129a0f72f1881447d7e29e91"
+  },
+  {
+    "path": "TutteFormalization/RelativeComplement.lean",
+    "bytes": 3608,
+    "sha256": "3d2ce8a905e74b268a71ab2ec583876e8306755aaa17805fd7a990fa6d8a588f"
+  },
+  {
+    "path": "TutteFormalization/Separation.lean",
+    "bytes": 3308,
+    "sha256": "da94c8830fc2fcce1172da89241bb9daa997f794ed8a22ae519d92a58cc412c0"
+  },
+  {
+    "path": "TutteFormalization/SeparationRank.lean",
+    "bytes": 6831,
+    "sha256": "718183948da4751fcb243e87a38bb6255d70bd90ee6f0a930881d62536bcc9a1"
+  },
+  {
+    "path": "TutteFormalization/SmokeTest.lean",
+    "bytes": 75,
+    "sha256": "73ddaca3422afe06da08d7e7d1c43d1a06a34631c30590b27d9527bc3e7f23e5"
+  },
+  {
+    "path": "TutteFormalization.lean",
+    "bytes": 70,
+    "sha256": "b74d397b8825a6a4ba15378b823c0f5975a9cd404b5c593464d76e56218baad6"
+  },
+  {
+    "path": "audit/KernelReplay.lean",
+    "bytes": 1946,
+    "sha256": "977303d1758f2ddb07090a1ca4894f72af1b1c4fe234661839796e26c2f02dae"
+  },
+  {
+    "path": "audit/StatementAudit.lean",
+    "bytes": 663,
+    "sha256": "c8e23addb424fddcd0976fb23e3d1f4dbab9eb8863460bf1daadd1171ae767be"
+  },
+  {
+    "path": "docs/CREDITS.md",
+    "bytes": 1225,
+    "sha256": "53df3bbc3335f74055ad1d28ee8e5ea90a303e3393c9bddb35f09626f4a872f3"
+  },
+  {
+    "path": "docs/MANUSCRIPT_CORRESPONDENCE.md",
+    "bytes": 3628,
+    "sha256": "2dd52a6777ee7b235681ee16d0ec23116e36ed17e11de6dc11f93e451841f639"
+  },
+  {
+    "path": "docs/PROOF_GUIDE.md",
+    "bytes": 2344,
+    "sha256": "7226e52f2ee78a31e0bb5f9f2c97a8c4596719952efdf3683d2b188ddf1ccbf9"
+  },
+  {
+    "path": "docs/VERIFICATION.md",
+    "bytes": 3528,
+    "sha256": "bddaac5efcf4b65d5a1cff7601449c67df3dce17a5ce7fd5f7e90fa42ff9ccde"
+  },
+  {
+    "path": "homotopy/audit/FinalKernelReplay.lean",
+    "bytes": 3553,
+    "sha256": "7e4c92416295696f4286458478f3db477580167b2fde356e594f14a82662a739"
+  },
+  {
+    "path": "homotopy/audit/SemanticsAudit.lean",
+    "bytes": 937,
+    "sha256": "42cc9edd401e088929e15edd7241fe7d612125a92625021db99ac61ecc2f4814"
+  },
+  {
+    "path": "homotopy/audit/StatementAudit.lean",
+    "bytes": 466,
+    "sha256": "a4b4970c661fb5c3c01b967aaf917282ee8b330a81aab5facb8a8d7584c917e0"
+  },
+  {
+    "path": "lake-manifest.json",
+    "bytes": 3160,
+    "sha256": "4243fd041a65d99f8dadad9d2de5d6cf43f1aace004256d88013b9db12b4624b"
+  },
+  {
+    "path": "lakefile.toml",
+    "bytes": 387,
+    "sha256": "3a58c79fadf6291b92265a2e5a20e8f219e9386d7b1182ee76db6f4e3f462f22"
+  },
+  {
+    "path": "lean-toolchain",
+    "bytes": 29,
+    "sha256": "8190e75a201741065fe508b28955dd64dd72d090babe5f70ce6848879d68ae88"
+  },
+  {
+    "path": "scripts/build-targets.txt",
+    "bytes": 8382,
+    "sha256": "39005170201789849b4de327328bb61e9dc39fffa679fee7ed52de560dc7a618"
+  },
+  {
+    "path": "scripts/check_dependency_pins.py",
+    "bytes": 1390,
+    "sha256": "5557ea0d98e477d7af6ceea0ab37fe9a3c9c8319a8ebe83ff7c686506278f892"
+  },
+  {
+    "path": "scripts/check_publication_inventory.py",
+    "bytes": 2681,
+    "sha256": "7cfad58bc794f3af737611694616eb5cda885b8846ecaeb852e75e73068630fe"
+  },
+  {
+    "path": "scripts/check_source_snapshot.py",
+    "bytes": 1480,
+    "sha256": "02130e583bd3fa99e7898f528d569328fef1c6b65b5d6d8e5646c7fce68cd5b7"
+  },
+  {
+    "path": "scripts/check_target_axioms.py",
+    "bytes": 1125,
+    "sha256": "36c86db4d6b0f3786096d188b1c1e9e657b3f7026114b4d17bf01acb366cf69a"
+  },
+  {
+    "path": "scripts/verify.sh",
+    "bytes": 1844,
+    "sha256": "605414ea7f1285bde8ad2272c86f97bad1b8c950828de2b19decf0c55eb0e10d"
+  },
+  {
+    "path": "source/README.md",
+    "bytes": 475,
+    "sha256": "2a5798e3672ad17e84aee41782d84667ad5b045d39c1b502e5f8471fd35bf0dd"
+  }
+]

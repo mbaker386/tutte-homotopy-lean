@@ -1,0 +1,23 @@
+.lake/
+.verification-logs/
+.DS_Store
+*.olean
+*.ilean
+*.olean.*
+*.trace
+*.zip
+__pycache__/
+*.pyc
+.codex/
+.env
+.env.*
+auth.json
+credentials.json
+.vscode/
+audit/final_dependency_graph.json
+homotopy/audit/final_dependency_graph.json
+# Private development materials are not part of the public snapshot.
+source/*.tex
+source/*.pdf
+homotopy_handoff/
+audit/checkpoints/

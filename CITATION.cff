@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: >-
+  Please cite this formalization together with its mathematical source paper.
+  Identify the public commit or release that you used. This metadata uses collective project attribution;
+  the maintainers may refine the software author list before a publication release.
+title: "Lean formalization of Tutte's path and homotopy theorems"
+type: software
+authors:
+  - name: "Tutte formalization contributors"
+abstract: >-
+  Lean 4 proofs of Tutte's path theorem and the local BJL homotopy theorem,
+  with explicit finite elementary configurations and a source-following
+  counting and descent argument.
+keywords:
+  - Lean
+  - matroid theory
+  - Tutte
+  - formal verification
+license: Apache-2.0
+repository-code: "https://github.com/mbaker386/tutte-homotopy-lean"
+url: "https://github.com/mbaker386/tutte-homotopy-lean"
